@@ -30,7 +30,7 @@ The project involved a full database restoration from the dump file. Data was cl
 
 📁** Project Structure**
 ![Magist Logistic time delivery](images/Magist_logistic_delivery.png)
-*Handling time from both Magist and Carrier is inefficient
+* Handling time from both Magist and Carrier is inefficient
 
 ! [Tech sellers opportunity](images/Magist_10_tech_seller_rev.png)
 * No real competitor playing in Eniac's field
